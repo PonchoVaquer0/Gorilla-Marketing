@@ -533,7 +533,10 @@ body.dark-theme {
   .footer__container {
     grid-template-columns: repeat(2, 1fr);
   }
+ .section2{
+    padding: 5rem 0 10rem;
 
+  }
   .home__img {
     order: 1;
   }
