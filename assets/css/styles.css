@@ -504,7 +504,10 @@ body.dark-theme {
   .section {
     padding: 3.5rem 0 1rem;
   }
+ .section2{
+    padding: 3.5rem 0 10rem;
 
+  }
   .services__img {
     width: 100px;
   }
