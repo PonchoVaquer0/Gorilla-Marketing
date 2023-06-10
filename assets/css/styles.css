@@ -613,7 +613,10 @@ body.dark-theme {
   .svg__img {
     width: 470px;
   }
+ .section2{
+    padding: 3.5rem 0 10rem;
 
+  }
   .about__container,
   .security__container,
   .app__container,
